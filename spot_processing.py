@@ -3,8 +3,7 @@
 
 import re
 import pytz
-from pytz import timezone
-from datetime import datetime, time, date, tzinfo
+from datetime import datetime
 from cty import load_cty
 import logging
 import os.path
